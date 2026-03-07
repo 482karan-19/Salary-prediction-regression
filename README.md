@@ -10,14 +10,14 @@ Salary prediction machine learning project using linear regression built in Goog
 
 The model ask you the experience and gives the predicted salary output.
 
-##Tools Used:
-Python
-Pandas
-Scikit-learn
-Google Colab
+##Tools Used:  
+Python, 
+Pandas, 
+Scikit-learn, 
+Google Colab.
 
-Algorithm:
-Linear Regression
+Algorithm:  
+Linear Regression.
 
 
 ## Methodology
